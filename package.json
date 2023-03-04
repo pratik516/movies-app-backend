@@ -4,10 +4,11 @@
   "description": "This is movies app",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js",
-    "start": "node index.js",
-    "build": "node index.js",
-    "install": "node index.js"
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik516/movies-app-backend.git"
   },
   "author": "pratik",
   "license": "ISC",
